@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://bpu0civlr16w4"
+path="res://.godot/imported/texturepixel.aseprite-79d574ab1c6f096e5a4727522e81d565.res"
+
+[deps]
+
+source_file="res://asset/texturepixel.aseprite"
+dest_files=["res://.godot/imported/texturepixel.aseprite-79d574ab1c6f096e5a4727522e81d565.res"]
+
+[params]
+
